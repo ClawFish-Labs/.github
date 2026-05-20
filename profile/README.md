@@ -1,4 +1,4 @@
-# ClawFish Labs
+# Anthro Labs
 
 <p align="center">
   <img src="https://github.com/Anthro-Labs.png" width="140" alt="ClawFish Labs" />
