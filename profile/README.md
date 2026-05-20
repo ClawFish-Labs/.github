@@ -1,7 +1,7 @@
 # ClawFish Labs
 
 <p align="center">
-  <img src="https://github.com/ClawFish-Labs.png" width="140" alt="ClawFish Labs" />
+  <img src="https://github.com/Anthro-Labs.png" width="140" alt="ClawFish Labs" />
 </p>
 
 <p align="center">
